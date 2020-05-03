@@ -1,0 +1,24 @@
+
+
+    @media (min-width: 600px) and (max-width: 1100px) {
+
+	
+  }
+
+
+@media (min-width: 300px) and (max-width: 600px) {
+	.logo img {
+	    width: 138px;
+	}
+		.feature_big img {
+	    width: 100%;
+	    height: auto;
+	}
+	.feature_small_item img {
+		
+	}
+	.search {
+	    width: 200px;
+	}
+
+  }
